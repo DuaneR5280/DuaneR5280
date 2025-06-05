@@ -2,7 +2,7 @@
 
 I'm a Customer Support Engineer who is passionate about extending assistance and knowledge to others, and staying at the forefront of evolving technologies.
 
-I also enjoy home-labbing, building automation tools, utilities, and learning something new daily.
+I also enjoy building automation tools, utilities, home-labbing, and playing disc golf 🥏.
 
 🔨 I use:
 - Python, PowerShell, JavaScript
