@@ -10,6 +10,7 @@ I also enjoy building automation tools, utilities, home-labbing, and playing dis
 - PostgreSQL, SQLite, MySQL, MongoDB
 - Redis
 - `UV`, Flask, FastAPI, Typer/Click
+- 🥏 Wraith, Thunderbird, Roc, Alpaca
 
 ## 💼 My Portfolio
 
