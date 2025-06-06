@@ -12,10 +12,11 @@ I also enjoy building automation tools, utilities, home-labbing, and playing dis
 - `UV`, Flask, FastAPI, Typer/Click
 - 🥏 Wraith, Thunderbird, Roc, Alpaca
 
+<!-- In progress
 ## 💼 My Portfolio
 
 Check out my portfolio in the [portfolio repo](https://github.com/DuaneR5280/portfolio)!
-
+-->
 ## 📩 Contact Me
 
 - Github: [@DuaneR5280](https://github.com/DuaneR5280)
